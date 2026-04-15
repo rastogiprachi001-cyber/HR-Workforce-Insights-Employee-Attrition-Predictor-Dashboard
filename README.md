@@ -1,0 +1,2 @@
+# HR-Workforce-Insights-Employee-Attrition-Predictor-Dashboard
+A complete end-to-end HR analytics project built using Power BI to analyze workforce trends, monitor employee performance, and predict attrition risk. This dashboard provides actionable insights through KPI tracking, department-wise attrition analysis, and employee risk segmentation to support data-driven HR decision-making and workforce planning.
